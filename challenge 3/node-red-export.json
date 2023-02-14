@@ -1,0 +1,119 @@
+[
+    {
+        "id": "dd34c753.cfcd",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "ae4411f6.ad9b28",
+        "type": "function",
+        "z": "dd34c753.cfcd",
+        "name": "Set MQTT parameters",
+        "func": "var channelId=\"1724905\";\nvar led0 = msg.payload[0];\nvar led1 = msg.payload[1];\nvar led2 = msg.payload[2];\nvar sstatus = \"&status=MQTTPUBLISH\";\n\nmsg.topic=\"channels/\"+channelId+\"/publish\";\n\nmsg.payload = \"field1=\"+led0+\"&&field2=\"+led1+\"&&field3=\"+led2 + sstatus\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 750,
+        "y": 400,
+        "wires": [
+            [
+                "32f15818.dd77e8",
+                "7907edf4.e3382c"
+            ]
+        ]
+    },
+    {
+        "id": "32f15818.dd77e8",
+        "type": "debug",
+        "z": "dd34c753.cfcd",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 1010,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "2eda181c.f30ee",
+        "type": "delay",
+        "z": "dd34c753.cfcd",
+        "name": "Rate limiter",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "minute",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 530,
+        "y": 400,
+        "wires": [
+            [
+                "ae4411f6.ad9b28"
+            ]
+        ]
+    },
+    {
+        "id": "71330c5.ce35874",
+        "type": "tcp in",
+        "z": "dd34c753.cfcd",
+        "name": "",
+        "server": "client",
+        "host": "localhost",
+        "port": "60001",
+        "datamode": "stream",
+        "datatype": "utf8",
+        "newline": "\\n",
+        "topic": "",
+        "base64": false,
+        "x": 330,
+        "y": 400,
+        "wires": [
+            [
+                "2eda181c.f30ee"
+            ]
+        ]
+    },
+    {
+        "id": "7907edf4.e3382c",
+        "type": "mqtt out",
+        "z": "dd34c753.cfcd",
+        "name": "MQTT to Thingspeak",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "broker": "bea64643.3018f",
+        "x": 1020,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "bea64643.3018f",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "thingspeak",
+        "broker": "mqtt3.thingspeak.com",
+        "port": "1883",
+        "clientid": "DzkBKy8DLToNGhwAOAQKGxg",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    }
+]

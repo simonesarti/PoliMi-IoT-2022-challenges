@@ -1,0 +1,1063 @@
+DEBUG (1): Application booted on node 1.
+DEBUG (1): Radio ON on node 1!
+DEBUG (1): Started timer on mote1
+DEBUG (1): 
+
+Timer fired, counter is 1.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:1 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:0.976562510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 2.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:2 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:1.953125010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 3.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:3 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:2.929687510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 4.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:4 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:3.906250010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 5.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:5 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:4.882812510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 6.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:6 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:5.859375010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 7.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:7 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:6.835937510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 8.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:8 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:7.812500010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 9.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:9 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:8.789062510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 10.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:10 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:9.765625010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 11.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:11 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:10.742187510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 12.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:12 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:11.718750010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 13.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:13 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:12.695312510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 14.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:14 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:13.671875010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 15.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:15 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:14.648437510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 16.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:16 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:15.625000010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 17.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:17 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:16.601562510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 18.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:18 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:17.578125010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 19.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:19 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:18.554687510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 20.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:20 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:19.531250010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 21.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:21 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:20.507812510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 22.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:22 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:21.484375010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 23.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:23 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:22.460937510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 24.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:24 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:23.437500010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 25.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:25 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:24.414062510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 26.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:26 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:25.390625010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 27.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:27 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:26.367187510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 28.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:28 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:27.343750010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 29.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:29 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:28.320312510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 30.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:30 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:29.296875010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 31.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:31 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:30.273437510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 32.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:32 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:31.250000010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 33.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:33 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:32.226562510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 34.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:34 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:33.203125010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 35.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:35 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:34.179687510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 36.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:36 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:35.156250010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 37.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:37 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:36.132812510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 38.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:38 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:37.109375010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 39.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:39 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:38.085937510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 40.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:40 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:39.062500010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 41.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:41 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:40.039062510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 42.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:42 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:41.015625010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 43.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:43 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:41.992187510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 44.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:44 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:42.968750010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 45.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:45 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:43.945312510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 46.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:46 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:44.921875010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 47.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:47 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:45.898437510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 48.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:48 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:46.875000010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 49.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:49 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:47.851562510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 50.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:50 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:48.828125010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 51.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:51 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:49.804687510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 52.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:52 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:50.781250010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 53.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:53 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:51.757812510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 54.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:54 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:52.734375010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 55.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:55 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:53.710937510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 56.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:56 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:54.687500010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 57.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:57 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:55.664062510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 58.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:58 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:56.640625010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 59.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:59 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:57.617187510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 60.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:60 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:58.593750010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 61.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:61 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:0:59.570312510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 62.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:62 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:0.546875010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 63.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:63 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:1.523437510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 64.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:64 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:2.500000010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 65.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:65 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:3.476562510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 66.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:66 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:4.453125010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (1): 
+
+Timer fired, counter is 67.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:67 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:5.429687510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack not received by mote1, waiting for next timer cycle to resend
+DEBUG (2): Application booted on node 2.
+DEBUG (2): Radio ON on node 2!
+DEBUG (1): 
+
+Timer fired, counter is 68.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:68 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:6.406250010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (2): Received packet at time 0:1:6.416870065
+DEBUG (2): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 68 
+		 value: 0 
+		 msg_type: 1 
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack received by mote1
+DEBUG (1): number of REQ_ACK received is 1
+DEBUG (2): inserting COUNTER:68 VALUE:50421, MSG_TYPE:2 into the message to be sent
+DEBUG (2): Setting ack flag for the message
+DEBUG (2): message will be sent from mote2 to mote 1
+DEBUG (2): Sending packet from 2 to 1 at time 0:1:6.425781260 
+DEBUG (2): radio on mote2 has been locked
+DEBUG (1): Received packet at time 0:1:6.433303799
+DEBUG (1): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 68 
+		 value: 50421 
+		 msg_type: 2 
+DEBUG (2): Packet sending from mote2 sent correctly
+DEBUG (2): radio on mote2 has been unlocked
+DEBUG (2): ack received by mote2
+DEBUG (1): 
+
+Timer fired, counter is 69.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:69 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:7.382812510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (2): Received packet at time 0:1:7.387145980
+DEBUG (2): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 69 
+		 value: 0 
+		 msg_type: 1 
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack received by mote1
+DEBUG (1): number of REQ_ACK received is 2
+DEBUG (2): inserting COUNTER:69 VALUE:45267, MSG_TYPE:2 into the message to be sent
+DEBUG (2): Setting ack flag for the message
+DEBUG (2): message will be sent from mote2 to mote 1
+DEBUG (2): Sending packet from 2 to 1 at time 0:1:7.396484385 
+DEBUG (2): radio on mote2 has been locked
+DEBUG (1): Received packet at time 0:1:7.398880000
+DEBUG (1): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 69 
+		 value: 45267 
+		 msg_type: 2 
+DEBUG (2): Packet sending from mote2 sent correctly
+DEBUG (2): radio on mote2 has been unlocked
+DEBUG (2): ack received by mote2
+DEBUG (1): 
+
+Timer fired, counter is 70.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:70 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:8.359375010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (2): Received packet at time 0:1:8.365402196
+DEBUG (2): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 70 
+		 value: 0 
+		 msg_type: 1 
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack received by mote1
+DEBUG (1): number of REQ_ACK received is 3
+DEBUG (2): inserting COUNTER:70 VALUE:1677, MSG_TYPE:2 into the message to be sent
+DEBUG (2): Setting ack flag for the message
+DEBUG (2): message will be sent from mote2 to mote 1
+DEBUG (2): Sending packet from 2 to 1 at time 0:1:8.375000010 
+DEBUG (2): radio on mote2 has been locked
+DEBUG (2): Packet sending from mote2 sent correctly
+DEBUG (2): radio on mote2 has been unlocked
+DEBUG (2): ack not received by mote2, trying to send packet again
+DEBUG (2): inserting COUNTER:70 VALUE:1677, MSG_TYPE:2 into the message to be sent
+DEBUG (2): Setting ack flag for the message
+DEBUG (2): message will be sent from mote2 to mote 1
+DEBUG (2): Sending packet from 2 to 1 at time 0:1:8.381301853 
+DEBUG (2): radio on mote2 has been locked
+DEBUG (1): Received packet at time 0:1:8.391601475
+DEBUG (1): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 70 
+		 value: 1677 
+		 msg_type: 2 
+DEBUG (2): Packet sending from mote2 sent correctly
+DEBUG (2): radio on mote2 has been unlocked
+DEBUG (2): ack received by mote2
+DEBUG (1): 
+
+Timer fired, counter is 71.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:71 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:9.335937510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (2): Received packet at time 0:1:9.346618600
+DEBUG (2): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 71 
+		 value: 0 
+		 msg_type: 1 
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack received by mote1
+DEBUG (1): number of REQ_ACK received is 4
+DEBUG (2): inserting COUNTER:71 VALUE:9343, MSG_TYPE:2 into the message to be sent
+DEBUG (2): Setting ack flag for the message
+DEBUG (2): message will be sent from mote2 to mote 1
+DEBUG (2): Sending packet from 2 to 1 at time 0:1:9.355468760 
+DEBUG (2): radio on mote2 has been locked
+DEBUG (1): Received packet at time 0:1:9.362792936
+DEBUG (1): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 71 
+		 value: 9343 
+		 msg_type: 2 
+DEBUG (2): Packet sending from mote2 sent correctly
+DEBUG (2): radio on mote2 has been unlocked
+DEBUG (2): ack received by mote2
+DEBUG (1): 
+
+Timer fired, counter is 72.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:72 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:10.312500010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (2): Received packet at time 0:1:10.320053066
+DEBUG (2): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 72 
+		 value: 0 
+		 msg_type: 1 
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack received by mote1
+DEBUG (1): number of REQ_ACK received is 5
+DEBUG (2): inserting COUNTER:72 VALUE:9863, MSG_TYPE:2 into the message to be sent
+DEBUG (2): Setting ack flag for the message
+DEBUG (2): message will be sent from mote2 to mote 1
+DEBUG (2): Sending packet from 2 to 1 at time 0:1:10.329101572 
+DEBUG (2): radio on mote2 has been locked
+DEBUG (1): Received packet at time 0:1:10.337234459
+DEBUG (1): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 72 
+		 value: 9863 
+		 msg_type: 2 
+DEBUG (2): Packet sending from mote2 sent correctly
+DEBUG (2): radio on mote2 has been unlocked
+DEBUG (2): ack received by mote2
+DEBUG (1): 
+
+Timer fired, counter is 73.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:73 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:11.289062510 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (2): Received packet at time 0:1:11.297241173
+DEBUG (2): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 73 
+		 value: 0 
+		 msg_type: 1 
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack received by mote1
+DEBUG (1): number of REQ_ACK received is 6
+DEBUG (2): inserting COUNTER:73 VALUE:36952, MSG_TYPE:2 into the message to be sent
+DEBUG (2): Setting ack flag for the message
+DEBUG (2): message will be sent from mote2 to mote 1
+DEBUG (2): Sending packet from 2 to 1 at time 0:1:11.306640635 
+DEBUG (2): radio on mote2 has been locked
+DEBUG (1): Received packet at time 0:1:11.310699449
+DEBUG (1): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 73 
+		 value: 36952 
+		 msg_type: 2 
+DEBUG (2): Packet sending from mote2 sent correctly
+DEBUG (2): radio on mote2 has been unlocked
+DEBUG (2): ack received by mote2
+DEBUG (1): 
+
+Timer fired, counter is 74.
+DEBUG (1): Radio on mote1 not locked, sending the request
+DEBUG (1): inserting COUNTER:74 VALUE:0, MSG_TYPE:1 into the message to be sent
+DEBUG (1): Setting ack flag for the message
+DEBUG (1): message will be sent from mote1 to mote 2
+DEBUG (1): Sending packet from 1 to 2 at time 0:1:12.265625010 
+DEBUG (1): radio on mote1 has been locked
+DEBUG (2): Received packet at time 0:1:12.269088734
+DEBUG (2): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 74 
+		 value: 0 
+		 msg_type: 1 
+DEBUG (1): Packet sending from mote1 sent correctly
+DEBUG (1): radio on mote1 has been unlocked
+DEBUG (1): ack received by mote1
+DEBUG (1): number of REQ_ACK received is 7
+DEBUG (1): stopping timer
+DEBUG (2): inserting COUNTER:74 VALUE:44168, MSG_TYPE:2 into the message to be sent
+DEBUG (2): Setting ack flag for the message
+DEBUG (2): message will be sent from mote2 to mote 1
+DEBUG (2): Sending packet from 2 to 1 at time 0:1:12.278320322 
+DEBUG (2): radio on mote2 has been locked
+DEBUG (1): Received packet at time 0:1:12.286987264
+DEBUG (1): >>>Pack 
+ 	 Payload length 4 
+		 Payload 
+		 counter: 74 
+		 value: 44168 
+		 msg_type: 2 
+DEBUG (2): Packet sending from mote2 sent correctly
+DEBUG (2): radio on mote2 has been unlocked
+DEBUG (2): ack received by mote2

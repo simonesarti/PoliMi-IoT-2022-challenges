@@ -1,0 +1,3 @@
+COMPONENT=ch4AppC
+include $(MAKERULES)
+
