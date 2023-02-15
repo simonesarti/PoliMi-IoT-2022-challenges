@@ -10,7 +10,7 @@ Lamps that turn on and off when certain thresholds are reached are also used.
 
 
 
-## Challenge 3: TinyOS/Cooja, Node-Red and ThingSpeak
+## Challenge 3: TinyOS, Cooja, Node-Red and ThingSpeak
 
 The goal of the challenge is to send data corresponding to the updating status of 3 LEDs of a mote to ThingSpeak using MQTT.
 
